@@ -46,5 +46,7 @@ using three design patterns: Prototype, Proxy, and Strategy.
 - Students cannot access Secret Cipher system
 
 DEVELOPED BY: Bilal Abeed & Abdullah Altryky & Mohammed Omar
+
 COURSE: Software Design Patterns
+
 DATE: December 2025
